@@ -1,32 +1,17 @@
-# 👋 Olá, eu sou o Ezequiel Eduardo
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=03A1FF&vCenter=true&width=800&lines=Ol%C3%A1+mundo!+;Eu+sou+o+Ezequiel+Eduardo!+%F0%9F%98%81)](https://git.io/typing-svg)
 
-🎓 Técnico em informática e desenvolvedor em formação
+### Estudante de ADS na SPTech | Técnico em informática pelo Senac
 
----
+- 🌱 Atualmente estou aprendendo: **HTML, CSS, JavaScript, MySQL**
 
-## ✨ Sobre mim
+- 📫 Como entrar em contato comigo: **ezequieleduardosantos49@gmail.com**
 
-- 🎯 Meu foco é aprender, praticar e evoluir com consistência.
-- 📚 Uso o GitHub para documentar minha jornada e criar um portfólio real da minha evolução na tecnologia.
+<h3 align="left">Conecte-se comigo!</h3>
+<p align="left">
+<a href="https://github.com/Ezequiel-Eduardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ezequiel-Eduardo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ezequiel-eduardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequiel-eduardo" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a></p>
 
-## 🧰 Tecnologias que uso no dia a dia
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-## 📌 O que você vai encontrar por aqui
-
-- Projetos simples, experimentais e educacionais;
-- Exercícios de cursos e desafios de programação;
-- Alguns projetos profissionais e pessoais 🛠️
-
----
-
-## 📫 Como entrar em contato
-
-- ✉️ E-mail: [ezequieleduardosantos49@gmail.com](mailto:ezequieleduardosantos49@gmail.com)
-
----
